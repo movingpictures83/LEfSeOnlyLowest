@@ -1,0 +1,2 @@
+Prefix plugins/LEfSeOnlyLowest/example
+Plugin LEfSeOnlyLowest inputfile output.lefse.res outputfile output.lefse.lowest.res
